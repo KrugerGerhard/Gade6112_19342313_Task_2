@@ -92,7 +92,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
                 MovePlayer((Character.EnumMovement)map.Random.Next(0, 4) + 1, enemy);
             }
         }
-        public void EnemyAttacks()
+        public void EnemyAttacks() //Enemy Attack method should be functional in theory 
         {
             foreach (var enemy in map.Enemies)
             {
