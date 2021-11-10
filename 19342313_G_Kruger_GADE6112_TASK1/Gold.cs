@@ -9,8 +9,8 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
     [System.Serializable()]
     class Gold : Item
     {
-        private int gold;
-        private Random random = new Random();
+        private int gold; //Private integer for Gold
+        private Random random = new Random(); //Random generator for RNG Gold
 
         public Gold (int x , int y) : base ( x , y )
         {
