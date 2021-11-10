@@ -1,0 +1,10 @@
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\bin\Debug\19342313_G_Kruger_GADE6112_TASK1.exe.config
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\bin\Debug\19342313_G_Kruger_GADE6112_TASK1.exe
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\bin\Debug\19342313_G_Kruger_GADE6112_TASK1.pdb
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\19342313_G_Kruger_GADE6112_TASK1.csprojAssemblyReference.cache
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\_19342313_G_Kruger_GADE6112_TASK1.GameView.resources
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\_19342313_G_Kruger_GADE6112_TASK1.Properties.Resources.resources
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\19342313_G_Kruger_GADE6112_TASK1.csproj.GenerateResource.cache
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\19342313_G_Kruger_GADE6112_TASK1.csproj.CoreCompileInputs.cache
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\19342313_G_Kruger_GADE6112_TASK1.exe
+C:\Users\darkd\source\repos\19342313_G_Kruger_GADE6112_TASK1\obj\Debug\19342313_G_Kruger_GADE6112_TASK1.pdb
