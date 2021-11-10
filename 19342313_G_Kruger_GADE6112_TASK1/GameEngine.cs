@@ -67,7 +67,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
             return false;
         }
 
-        public void EnemiesMove()
+        public void EnemiesMove() ////Enemy Move method should be functional in theory 
         {
             foreach (var enemy in map.Enemies)
             {
