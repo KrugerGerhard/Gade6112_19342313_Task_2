@@ -17,7 +17,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
         {
             return EnumMovement.NoMovement;
         }
-
+        // Check range for Mage unit in full radius
         public override bool CheckRange(Character target)
         {
             if (this == target)
