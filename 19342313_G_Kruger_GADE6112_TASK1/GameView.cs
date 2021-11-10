@@ -236,12 +236,12 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
                 updateMap();
             }
         }
-
+         //Unsure if Save and Load Functions work, due to being unable to get the buttons to display on the form itself
         private void btnSave_Click(object sender, EventArgs e)
         {
             Save();
         }
-
+        //Should work as intended
         private void btnLoad_Click(object sender, EventArgs e)
         {
             LoadFile();
