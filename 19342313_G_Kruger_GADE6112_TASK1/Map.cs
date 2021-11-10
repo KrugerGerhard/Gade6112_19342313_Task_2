@@ -112,7 +112,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
                 UpdateCharacterVision(c);
             }
         }
-
+        //Revamped CharacterVisionUpdate
         public void UpdateCharacterVision(Character character)
         {
             Console.WriteLine(character.Y - 1);
