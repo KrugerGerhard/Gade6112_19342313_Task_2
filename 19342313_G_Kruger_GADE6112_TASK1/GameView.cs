@@ -112,7 +112,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
             }
             enemiesstats_label.Text = "Enemy Data:\n" + output;
         }
-
+          //Removed the Keyboard move method due to being unable to get them working, will stay as such until POE
           //private void FrmGameView_KeyDown(object sender, KeyEventArgs e)
           //{
           //  Console.WriteLine("moved");
