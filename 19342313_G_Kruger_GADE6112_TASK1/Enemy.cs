@@ -15,7 +15,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
         {
 
         }
-
+        //Edited ToString
         public override string ToString()
         {
             return this.GetType().Name + " at " + this.X + this.Y + this.damage;
