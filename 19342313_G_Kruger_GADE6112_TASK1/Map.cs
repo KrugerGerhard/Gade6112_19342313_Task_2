@@ -124,7 +124,7 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
                 map[character.Y +1, character.X], map[character.Y, character.X - 1],
                 map[character.Y, character.X+1] };
         }
-
+        // Haven't been able to progress past previous issue with initialization and Button displays 
         public Item GetItemAtPosition(int x, int y)
         {
             Item item = null;
