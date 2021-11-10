@@ -10,11 +10,11 @@ namespace _19342313_G_Kruger_GADE6112_TASK1
     class Hero : Character
     {
         EnumMovement HeroMovement;
-
+        //attempted to set Hero HP to 40 to bypass Null return, no dice, still debugging 
         public Hero(int x, int y, int hp, int damage = 2, char symbol = 'H') : base( x, y, hp, 2, 'H')
         {
             this.tiletype0 = TileType.Hero;
-            this.hp = 40;
+            this.hp = 40; //Edited hp value
             this.MaxHP = HP;
             this.damage = 2;
         }
